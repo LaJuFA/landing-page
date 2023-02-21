@@ -2,6 +2,20 @@
     margin: 0;
 }
 
+.header {
+    display: flex;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+}
+
+.hero {
+    display: flex;
+}
+
 .zebra {
-    width: 460px;
+    width: 420px;
 }
