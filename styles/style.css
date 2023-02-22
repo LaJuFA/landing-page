@@ -81,7 +81,29 @@ button {
 
 /* Information */
 
+.information {
+    padding: 64px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.info-main {
+    color: #1F2937;
+    font-weight: 900;
+    margin-bottom: 48px;
+}
+
+.cards {
+    display: flex;
+    gap: 32px;;
+}
+
+.card {
+    text-align: center;
+}
+
 .card img {
-    width: 128px;
+    width: 160px;
     border-radius: 8px;
 }
