@@ -78,3 +78,10 @@ button {
 .zebra {
     width: 440px;
 }
+
+/* Information */
+
+.card img {
+    width: 128px;
+    border-radius: 8px;
+}
