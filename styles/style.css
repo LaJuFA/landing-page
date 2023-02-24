@@ -35,7 +35,7 @@
 /* Header*/
 
 .header {
-    padding: 20px 8px;
+    padding: 20px 16px;
     display: flex;
     justify-content: space-around;
 }
@@ -52,6 +52,11 @@ ul {
     gap: 16px;
 }
 
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
 /* Hero */
 
 .hero {
@@ -59,7 +64,7 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 64px;
+    gap: 68px;
 }
 
 .hero-main {
